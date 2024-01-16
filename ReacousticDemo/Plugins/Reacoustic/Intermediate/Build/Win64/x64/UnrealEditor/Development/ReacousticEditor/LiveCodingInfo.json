@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ReacousticEditor.cpp.obj": [
+			"ReacousticEditor.init.gen.cpp.obj",
+			"ReacousticSoundAssociationSetterFactory.gen.cpp.obj",
+			"ReacousticSoundFactory.gen.cpp.obj",
+			"ReacousticAssociationEditorWidget.cpp.obj",
+			"ReacousticEditor.cpp.obj",
+			"ReacousticEditorMode.cpp.obj",
+			"ReacousticSidePanel.cpp.obj",
+			"ReacousticSoundAssetTypeActions.cpp.obj",
+			"ReacousticSoundAssociationSetterFactory.cpp.obj",
+			"ReacousticSoundFactory.cpp.obj",
+			"ReacousticStaticMeshDetailCustomization.cpp.obj"
+		]
+	}
+}

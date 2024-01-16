@@ -1,0 +1,26 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Reacoustic.cpp.obj": [
+			"Reacoustic.init.gen.cpp.obj",
+			"ReacousticAudioComponentManager.gen.cpp.obj",
+			"ReacousticComponent.gen.cpp.obj",
+			"ReacousticDataTypes.gen.cpp.obj",
+			"ReacousticSettings.gen.cpp.obj",
+			"ReacousticSlidingAudioComponent.gen.cpp.obj",
+			"ReacousticSoundAsset.gen.cpp.obj",
+			"ReacousticSoundUserData.gen.cpp.obj",
+			"ReacousticSubsystem.gen.cpp.obj",
+			"ReacousticSubsystemComponent.gen.cpp.obj",
+			"Reacoustic.cpp.obj",
+			"ReacousticAudioComponentManager.cpp.obj",
+			"ReacousticComponent.cpp.obj",
+			"ReacousticSettings.cpp.obj",
+			"ReacousticSlidingAudioComponent.cpp.obj",
+			"ReacousticSoundAsset.cpp.obj",
+			"ReacousticSoundUserData.cpp.obj",
+			"ReacousticSubsystem.cpp.obj",
+			"ReacousticSubsystemComponent.cpp.obj"
+		]
+	}
+}

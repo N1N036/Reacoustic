@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ReacousticEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\Reacoustic\ReacousticDemo\Intermediate\Build\Win64\x64\ReacousticDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.InclOrderUnreal5_0.h.obj"
+"D:\Github\Reacoustic\ReacousticDemo\Plugins\Reacoustic\Intermediate\Build\Win64\x64\UnrealEditor\Development\ReacousticEditor\Module.ReacousticEditor.cpp.obj"
+"D:\Github\Reacoustic\ReacousticDemo\Plugins\Reacoustic\Intermediate\Build\Win64\x64\UnrealEditor\Development\ReacousticEditor\Default.rc2.res"
+/OUT:"D:\Github\Reacoustic\ReacousticDemo\Plugins\Reacoustic\Intermediate\Build\Win64\x64\UnrealEditor\Development\ReacousticEditor\UnrealEditor-ReacousticEditor.lib"
